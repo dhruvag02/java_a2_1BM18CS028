@@ -72,3 +72,27 @@ System.out.println(b[i]);
 }
 }
 }
+
+
+
+Enter the number of books
+2
+*** Enter the book details ***
+Enter details of book1
+Enter name of book
+bms
+Enter Author
+BMS
+Enter Price and Number of pages
+2
+9
+Enter details of book2
+Enter name of book
+ce
+Enter Author
+CE
+Enter Price and Number of pages
+4
+10
+Book name=bms,Author name=BMS,Price=2.0,Number of pages=9
+Book name=ce,Author name=CE,Price=4.0,Number of pages=10
