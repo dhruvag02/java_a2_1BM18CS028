@@ -87,3 +87,41 @@ System.out.println("Highest="+largest+"and topper="+topper);
 }
 }
 
+
+
+
+
+
+Enter number of students
+2
+Enter details of prson1
+Enter name,age and adress of person
+Dhruv 
+24
+k-26
+Enter roll nunber and semester
+3
+3
+Enter marks1 and marks2
+45
+45
+**** DETAILS OF PERSON ****
+name=Dhruv,Age=24,address=k-26Roll number=3,Semester=3,marks1=45and marks2=45
+Average=45.0
+Enter details of prson2
+Enter name,age and adress of person
+bhush
+22
+k-78
+Enter roll nunber and semester
+34
+3
+Enter marks1 and marks2
+99
+99
+**** DETAILS OF PERSON ****
+name=bhush,Age=22,address=k-78Roll number=34,Semester=3,marks1=99and marks2=99
+Average=99.0
+Highest=99.0and topper=bhush
+
+
