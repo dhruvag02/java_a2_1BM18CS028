@@ -101,3 +101,66 @@ j=sc.nextInt();
 }
 }
 } 
+OUTPUT
+Enter the size of Stack
+2
+Enter the choice-
+1.Push	2.Pop	3.Display
+1
+PUSH
+Enter the value to be pushed
+5
+Enter other than '0' to continue
+1
+Enter the choice-
+1.Push	2.Pop	3.Display
+1
+PUSH
+Enter the value to be pushed
+8
+Enter other than '0' to continue
+1
+Enter the choice-
+1.Push	2.Pop	3.Display
+3
+DISPLAY
+***Values are displayed***
+8
+5
+Enter other than '0' to continue
+1
+Enter the choice-
+1.Push	2.Pop	3.Display
+1
+PUSH
+Enter the value to be pushed
+9
+New array has been created
+Enter other than '0' to continue
+1
+Enter the choice-
+1.Push	2.Pop	3.Display
+3
+DISPLAY
+***Values are displayed***
+9
+8
+5
+Enter other than '0' to continue
+1
+Enter the choice-
+1.Push	2.Pop	3.Display
+2
+POP
+Popped element=9
+Enter other than '0' to continue
+1
+Enter the choice-
+1.Push	2.Pop	3.Display
+3
+DISPLAY
+***Values are displayed***
+8
+5
+Enter other than '0' to continue
+0
