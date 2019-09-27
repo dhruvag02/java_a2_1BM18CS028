@@ -75,3 +75,32 @@ j=sc.nextInt();
 }
 }
 }
+
+OUTPUT
+Enter the choice-
+1.Rectangle	2.Triangle	3.Circle
+3
+Enter the value of radius(a)
+7
+Area 0f circle=153.86
+Enter other than '0' to continue
+1
+Enter the choice-
+1.Rectangle	2.Triangle	3.Circle
+1
+Enter the two values
+4
+3
+Area=12
+Enter other than '0' to continue
+1
+Enter the choice-
+1.Rectangle	2.Triangle	3.Circle
+2
+Enter the two values
+4
+4
+Area=8.0
+Enter other than '0' to continue
+0
+
