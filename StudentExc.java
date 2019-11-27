@@ -6,7 +6,7 @@ class StudentExc{
    int i;
    int marks[]=new int[3];
    try{
-      if(args.length==0||args.length<0)
+      if(args.length==0||args.length<3)
       throw new NoArgException("Zero arguments");
       }
       catch(NoArgException e){
